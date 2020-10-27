@@ -10,7 +10,8 @@
     Height="665"
     Width="665"
     MinHeight="470"
-    MinWidth="450">
+    MinWidth="450"
+    Icon="mosaico.ico">
     <DockPanel>
         <TextBlock
             DockPanel.Dock="Top"
